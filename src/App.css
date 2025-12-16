@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #eef3f9;
+}
+
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.search-box input {
+  padding: 10px;
+  width: 220px;
+  margin-right: 10px;
+}
+
+.search-box button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.weather-card {
+  margin-top: 30px;
+  background: white;
+  padding: 20px 30px;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
