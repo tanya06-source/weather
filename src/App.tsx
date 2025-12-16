@@ -134,7 +134,7 @@ function App() {
           borderRadius: "25px",
           border: "1px solid rgba(255,255,255,0.3)",
           boxShadow: "0 8px 32px rgba(0,0,0,0.25)",
-          width: "400px",
+          width: "40%",
           padding: "30px",
           color: "#fff",
         }}
